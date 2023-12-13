@@ -1,5 +1,3 @@
-# width = Enum.at(schematic, 0) |> length
-
 defmodule Helper do
   def is_symbol?(s) do
     symbol_pattern = ~r/[^\d\.]/

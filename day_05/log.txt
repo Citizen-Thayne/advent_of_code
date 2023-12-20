@@ -1,0 +1,664 @@
+%Almanac{
+  seeds: [364807853, 408612163, 302918330, 20208251, 1499552892, 200291842,
+   3284226943, 16030044, 2593569946, 345762334, 3692780593, 17215731,
+   1207118682, 189983080, 2231594291, 72205975, 3817565407, 443061598,
+   2313976854, 203929368],
+  maps: [
+    %SourceMap{
+      name: "seed-to-soil",
+      map: [
+        %{
+          dest_range_start: 2069473506,
+          src_range_start: 3732587455,
+          range_length: 1483883
+        },
+        %{
+          dest_range_start: 3235691256,
+          src_range_start: 2348990120,
+          range_length: 6550341
+        },
+        %{
+          dest_range_start: 3547561069,
+          src_range_start: 1392195671,
+          range_length: 747406227
+        },
+        %{
+          dest_range_start: 3264251584,
+          src_range_start: 3734071338,
+          range_length: 283309485
+        },
+        %{
+          dest_range_start: 391285622,
+          src_range_start: 257757572,
+          range_length: 195552540
+        },
+        %{
+          dest_range_start: 1645243555,
+          src_range_start: 3166958320,
+          range_length: 377191689
+        },
+        %{
+          dest_range_start: 335002083,
+          src_range_start: 512210869,
+          range_length: 56283539
+        },
+        %{
+          dest_range_start: 3242241597,
+          src_range_start: 897735089,
+          range_length: 22009987
+        },
+        %{
+          dest_range_start: 77244511,
+          src_range_start: 0,
+          range_length: 257757572
+        },
+        %{
+          dest_range_start: 989159646,
+          src_range_start: 4172023334,
+          range_length: 122943962
+        },
+        %{
+          dest_range_start: 605476380,
+          src_range_start: 3544150009,
+          range_length: 188437446
+        },
+        %{
+          dest_range_start: 0,
+          src_range_start: 568494408,
+          range_length: 18343754
+        },
+        %{
+          dest_range_start: 2700122696,
+          src_range_start: 4050276683,
+          range_length: 121746651
+        },
+        %{
+          dest_range_start: 2022435244,
+          src_range_start: 2139601898,
+          range_length: 47038262
+        },
+        %{
+          dest_range_start: 2227672101,
+          src_range_start: 919745076,
+          range_length: 95840269
+        },
+        %{
+          dest_range_start: 1112103608,
+          src_range_start: 2633818373,
+          range_length: 533139947
+        },
+        %{
+          dest_range_start: 826809686,
+          src_range_start: 2186640160,
+          range_length: 162349960
+        },
+        %{
+          dest_range_start: 3100147259,
+          src_range_start: 762191092,
+          range_length: 135543997
+        },
+        %{
+          dest_range_start: 18343754,
+          src_range_start: 453310112,
+          range_length: 58900757
+        },
+        %{
+          dest_range_start: 2323512370,
+          src_range_start: 1015585345,
+          range_length: 282396986
+        },
+        %{
+          dest_range_start: 2605909356,
+          src_range_start: 1297982331,
+          range_length: 94213340
+        },
+        %{
+          dest_range_start: 2821869347,
+          src_range_start: 2355540461,
+          range_length: 278277912
+        },
+        %{
+          dest_range_start: 793913826,
+          src_range_start: 4017380823,
+          range_length: 32895860
+        },
+        %{
+          dest_range_start: 2070957389,
+          src_range_start: 605476380,
+          range_length: 156714712
+        }
+      ]
+    },
+    %SourceMap{
+      name: "soil-to-fertilizer",
+      map: [
+        %{
+          dest_range_start: 2700214958,
+          src_range_start: 2743391193,
+          range_length: 363795571
+        },
+        %{
+          dest_range_start: 1484584575,
+          src_range_start: 1440072796,
+          range_length: 24660284
+        },
+        %{
+          dest_range_start: 927520818,
+          src_range_start: 435059068,
+          range_length: 191969051
+        },
+        %{
+          dest_range_start: 1588488926,
+          src_range_start: 1434420334,
+          range_length: 5652462
+        },
+        %{
+          dest_range_start: 1423277199,
+          src_range_start: 141187887,
+          range_length: 5443857
+        },
+        %{
+          dest_range_start: 1594141388,
+          src_range_start: 1350997453,
+          range_length: 83422881
+        },
+        %{
+          dest_range_start: 1986188257,
+          src_range_start: 3933008893,
+          range_length: 120750463
+        },
+        %{
+          dest_range_start: 1509244859,
+          src_range_start: 146631744,
+          range_length: 79093544
+        },
+        %{
+          dest_range_start: 3712482038,
+          src_range_start: 4220862006,
+          range_length: 74105290
+        },
+        %{
+          dest_range_start: 3948206286,
+          src_range_start: 1986188257,
+          range_length: 277570873
+        },
+        %{
+          dest_range_start: 291046304,
+          src_range_start: 281588807,
+          range_length: 153470261
+        },
+        %{
+          dest_range_start: 1119489869,
+          src_range_start: 918224946,
+          range_length: 303787330
+        },
+        %{
+          dest_range_start: 1677564269,
+          src_range_start: 1321192605,
+          range_length: 29804848
+        },
+        %{
+          dest_range_start: 2309878676,
+          src_range_start: 2336743687,
+          range_length: 390336282
+        },
+        %{
+          dest_range_start: 3079951473,
+          src_range_start: 3306332300,
+          range_length: 449116691
+        },
+        %{
+          dest_range_start: 444516565,
+          src_range_start: 1222012276,
+          range_length: 99180329
+        },
+        %{
+          dest_range_start: 543696894,
+          src_range_start: 1464733080,
+          range_length: 383823924
+        },
+        %{
+          dest_range_start: 3895169406,
+          src_range_start: 3771389935,
+          range_length: 53036880
+        },
+        %{
+          dest_range_start: 3529068164,
+          src_range_start: 4053759356,
+          range_length: 167102650
+        },
+        %{
+          dest_range_start: 0,
+          src_range_start: 627178642,
+          range_length: 291046304
+        },
+        %{
+          dest_range_start: 3696170814,
+          src_range_start: 2727079969,
+          range_length: 16311224
+        },
+        %{
+          dest_range_start: 3855550220,
+          src_range_start: 3824426815,
+          range_length: 39619186
+        },
+        %{
+          dest_range_start: 2106938720,
+          src_range_start: 3107186764,
+          range_length: 199145536
+        },
+        %{
+          dest_range_start: 1428721056,
+          src_range_start: 225725288,
+          range_length: 55863519
+        },
+        %{
+          dest_range_start: 1707369117,
+          src_range_start: 0,
+          range_length: 64378064
+        },
+        %{
+          dest_range_start: 1771747181,
+          src_range_start: 64378064,
+          range_length: 76809823
+        },
+        %{
+          dest_range_start: 3064010529,
+          src_range_start: 3755448991,
+          range_length: 15940944
+        },
+        %{
+          dest_range_start: 2306084256,
+          src_range_start: 2332949267,
+          range_length: 3794420
+        },
+        %{
+          dest_range_start: 4225777159,
+          src_range_start: 2263759130,
+          range_length: 69190137
+        },
+        %{
+          dest_range_start: 3786587328,
+          src_range_start: 3864046001,
+          range_length: 68962892
+        },
+        %{
+          dest_range_start: 1588338403,
+          src_range_start: 627028119,
+          range_length: 150523
+        }
+      ]
+    },
+    %SourceMap{
+      name: "fertilizer-to-water",
+      map: [
+        %{
+          dest_range_start: 2299879115,
+          src_range_start: 39069388,
+          range_length: 7889905
+        },
+        %{
+          dest_range_start: 514481680,
+          src_range_start: 504392888,
+          range_length: 101474410
+        },
+        %{
+          dest_range_start: 3448524168,
+          src_range_start: 0,
+          range_length: 25428313
+        },
+        %{
+          dest_range_start: 13641075,
+          src_range_start: 1832356728,
+          range_length: 472401611
+        },
+        %{
+          dest_range_start: 0,
+          src_range_start: 25428313,
+          range_length: 13641075
+        },
+        %{
+          dest_range_start: 1842445520,
+          src_range_start: 108629584,
+          range_length: 395763304
+        },
+        %{
+          dest_range_start: 486042686,
+          src_range_start: 3445513487,
+          range_length: 28438994
+        },
+        %{
+          dest_range_start: 2307769020,
+          src_range_start: 2304758339,
+          range_length: 1140755148
+        },
+        %{
+          dest_range_start: 2238208824,
+          src_range_start: 46959293,
+          range_length: 61670291
+        },
+        %{
+          dest_range_start: 615956090,
+          src_range_start: 605867298,
+          range_length: 1226489430
+        }
+      ]
+    },
+    %SourceMap{
+      name: "water-to-light",
+      map: [
+        %{
+          dest_range_start: 1318826171,
+          src_range_start: 2010420436,
+          range_length: 223477535
+        },
+        %{
+          dest_range_start: 2278894745,
+          src_range_start: 2233897971,
+          range_length: 671603259
+        },
+        %{
+          dest_range_start: 988189854,
+          src_range_start: 447584401,
+          range_length: 27746374
+        },
+        %{
+          dest_range_start: 2132052210,
+          src_range_start: 300741866,
+          range_length: 146842535
+        },
+        %{
+          dest_range_start: 0,
+          src_range_start: 1279660741,
+          range_length: 97125596
+        },
+        %{
+          dest_range_start: 3531244480,
+          src_range_start: 3147213622,
+          range_length: 507810286
+        },
+        %{
+          dest_range_start: 257581844,
+          src_range_start: 3816963790,
+          range_length: 101424269
+        },
+        %{
+          dest_range_start: 1298609589,
+          src_range_start: 3918388059,
+          range_length: 20216582
+        },
+        %{
+          dest_range_start: 3317726838,
+          src_range_start: 1072550929,
+          range_length: 21856732
+        },
+        %{
+          dest_range_start: 3065323607,
+          src_range_start: 1254863909,
+          range_length: 4121973
+        },
+        %{
+          dest_range_start: 97125596,
+          src_range_start: 1094407661,
+          range_length: 160456248
+        },
+        %{
+          dest_range_start: 359006113,
+          src_range_start: 1057194484,
+          range_length: 15356445
+        },
+        %{
+          dest_range_start: 374362558,
+          src_range_start: 1636971609,
+          range_length: 104335413
+        },
+        %{
+          dest_range_start: 4039054766,
+          src_range_start: 475330775,
+          range_length: 9209679
+        },
+        %{
+          dest_range_start: 1038424317,
+          src_range_start: 1376786337,
+          range_length: 260185272
+        },
+        %{
+          dest_range_start: 878530050,
+          src_range_start: 3938604641,
+          range_length: 109659804
+        },
+        %{
+          dest_range_start: 1784016098,
+          src_range_start: 3738041092,
+          range_length: 78922698
+        },
+        %{
+          dest_range_start: 3152462764,
+          src_range_start: 0,
+          range_length: 165264074
+        },
+        %{
+          dest_range_start: 1862938796,
+          src_range_start: 1741307022,
+          range_length: 269113414
+        },
+        %{
+          dest_range_start: 497536930,
+          src_range_start: 676201364,
+          range_length: 380993120
+        },
+        %{
+          dest_range_start: 3069445580,
+          src_range_start: 3655023908,
+          range_length: 83017184
+        },
+        %{
+          dest_range_start: 2950498004,
+          src_range_start: 165264074,
+          range_length: 114825603
+        },
+        %{
+          dest_range_start: 1015936228,
+          src_range_start: 1258985882,
+          range_length: 1835900
+        },
+        %{
+          dest_range_start: 478697971,
+          src_range_start: 1260821782,
+          range_length: 18838959
+        },
+        %{
+          dest_range_start: 1017772128,
+          src_range_start: 280089677,
+          range_length: 20652189
+        },
+        %{
+          dest_range_start: 1542303706,
+          src_range_start: 2905501230,
+          range_length: 241712392
+        },
+        %{
+          dest_range_start: 3339583570,
+          src_range_start: 484540454,
+          range_length: 191660910
+        }
+      ]
+    },
+    %SourceMap{
+      name: "light-to-temperature",
+      map: [
+        %{
+          dest_range_start: 2827696039,
+          src_range_start: 489007811,
+          range_length: 183207687
+        },
+        %{
+          dest_range_start: 1480301347,
+          src_range_start: 3744628626,
+          range_length: 306791400
+        },
+        %{
+          dest_range_start: 695239418,
+          src_range_start: 130668965,
+          range_length: 358338846
+        },
+        %{
+          dest_range_start: 1297125534,
+          src_range_start: 2232912413,
+          range_length: 183175813
+        },
+        %{
+          dest_range_start: 3979319170,
+          src_range_start: 1917264287,
+          range_length: 315648126
+        },
+        %{
+          dest_range_start: 3010903726,
+          src_range_start: 948848843,
+          range_length: 968415444
+        },
+        %{
+          dest_range_start: 130668965,
+          src_range_start: 2663473525,
+          range_length: 564570453
+        },
+        %{
+          dest_range_start: 1053578264,
+          src_range_start: 4051420026,
+          range_length: 243547270
+        },
+        %{
+          dest_range_start: 2303677395,
+          src_range_start: 672215498,
+          range_length: 276633345
+        },
+        %{
+          dest_range_start: 1787092747,
+          src_range_start: 3228043978,
+          range_length: 516584648
+        },
+        %{
+          dest_range_start: 2580310740,
+          src_range_start: 2416088226,
+          range_length: 247385299
+        }
+      ]
+    },
+    %SourceMap{
+      name: "temperature-to-humidity",
+      map: [
+        %{
+          dest_range_start: 4161466647,
+          src_range_start: 3871737509,
+          range_length: 133500649
+        },
+        %{
+          dest_range_start: 2423686895,
+          src_range_start: 2864370860,
+          range_length: 72123408
+        },
+        %{
+          dest_range_start: 1983529997,
+          src_range_start: 0,
+          range_length: 320533964
+        },
+        %{
+          dest_range_start: 3184295196,
+          src_range_start: 2695571092,
+          range_length: 41928210
+        },
+        %{
+          dest_range_start: 0,
+          src_range_start: 822932241,
+          range_length: 605870242
+        },
+        %{
+          dest_range_start: 3557076981,
+          src_range_start: 3267347843,
+          range_length: 604389666
+        },
+        %{
+          dest_range_start: 3226223406,
+          src_range_start: 2936494268,
+          range_length: 330853575
+        },
+        %{
+          dest_range_start: 2495810303,
+          src_range_start: 2737499302,
+          range_length: 126871558
+        },
+        %{
+          dest_range_start: 1108268519,
+          src_range_start: 1428802483,
+          range_length: 491674128
+        },
+        %{
+          dest_range_start: 605870242,
+          src_range_start: 320533964,
+          range_length: 502398277
+        },
+        %{
+          dest_range_start: 2622681861,
+          src_range_start: 2423686895,
+          range_length: 271884197
+        },
+        %{
+          dest_range_start: 2894566058,
+          src_range_start: 4005238158,
+          range_length: 289729138
+        },
+        %{
+          dest_range_start: 1599942647,
+          src_range_start: 1920476611,
+          range_length: 383587350
+        }
+      ]
+    },
+    %SourceMap{
+      name: "humidity-to-location",
+      map: [
+        %{
+          dest_range_start: 2945628300,
+          src_range_start: 1864953738,
+          range_length: 334378942
+        },
+        %{
+          dest_range_start: 3467273713,
+          src_range_start: 3579654586,
+          range_length: 715312710
+        },
+        %{
+          dest_range_start: 975015905,
+          src_range_start: 1356290883,
+          range_length: 508662855
+        },
+        %{
+          dest_range_start: 1483678760,
+          src_range_start: 2498980024,
+          range_length: 1080674562
+        },
+        %{
+          dest_range_start: 3443998409,
+          src_range_start: 2199332680,
+          range_length: 23275304
+        },
+        %{
+          dest_range_start: 3280007242,
+          src_range_start: 2222607984,
+          range_length: 163991167
+        },
+        %{
+          dest_range_start: 4182586423,
+          src_range_start: 2386599151,
+          range_length: 112380873
+        },
+        %{
+          dest_range_start: 2564353322,
+          src_range_start: 975015905,
+          range_length: 381274978
+        },
+        %{}
+      ]
+    }
+  ]
+}
